@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
+
+models_per_commodity/models/*_best.h5
