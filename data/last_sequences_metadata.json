@@ -1,0 +1,22 @@
+{
+  "seq_len": 15,
+  "feature_order": [
+    "modal_price_modal_price",
+    "quantity_supply_quintal",
+    "quantity_demand_quintal",
+    "price_range",
+    "supply_demand_ratio",
+    "min_price_modal_price",
+    "max_price_modal_price"
+  ],
+  "original_feature_names": [
+    "modal_price_(rs./quintal)",
+    "quantity_supply_(quintal)",
+    "quantity_demand_(quintal)",
+    "price_range",
+    "supply_demand_ratio",
+    "min_price_(rs./quintal)",
+    "max_price_(rs./quintal)"
+  ],
+  "n_series": 30
+}

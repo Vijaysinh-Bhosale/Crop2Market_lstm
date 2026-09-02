@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+tensorflow-cpu
+xgboost==1.7.6
+plotly
+requests
+pydeck
+openpyxl
+geopy
+streamlit-js-eval
