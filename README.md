@@ -69,3 +69,55 @@ Market Comparison
        │
        ▼
 Selling Recommendation
+```
+
+## 🚀 Installation & Usage
+
+### 1. Clone the Repository
+
+Clone the project from GitHub:
+
+```bash
+git clone https://github.com/Vijaysinh-Bhosale/Crop2Market_lstm.git
+```
+Navigate to the project directory:
+```bash
+cd Crop2Market_lstm
+```
+### 2. Create a Virtual Environment
+
+Create a Python virtual environment:
+```bash
+python -m venv venv
+```
+### 3. Activate the Virtual Environment
+Windows
+```bash
+venv\Scripts\activate
+```
+macOS / Linux
+```bash
+source venv/bin/activate
+```
+
+After activation, your terminal should show (venv) before the current directory.
+
+### 4. Install Dependencies
+
+Install all required Python packages:
+```
+pip install -r requirements.txt
+```
+### 5. Run the Application
+
+Start the Streamlit application:
+```
+streamlit run app.py
+```
+The application will open in your default browser.
+
+If it does not open automatically, Streamlit will display a local URL similar to:
+```
+http://localhost:8501
+```
+Open that URL in your browser.
