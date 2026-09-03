@@ -121,3 +121,12 @@ If it does not open automatically, Streamlit will display a local URL similar to
 http://localhost:8501
 ```
 Open that URL in your browser.
+
+## 👨‍💻 Author
+
+### **Vijaysinh Yuvarj Bhosale**
+
+Machine Learning | Python | TensorFlow | LSTM | Streamlit | Data Analysis
+
+### License
+This project is developed for educational and demonstration purposes.
